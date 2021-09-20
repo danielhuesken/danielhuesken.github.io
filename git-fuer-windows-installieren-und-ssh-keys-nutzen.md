@@ -10,7 +10,7 @@ Da ich nur die Kommandozeilen Komponenten benötige, habe ich die “Windows Exp
 
 Hier verwende ich extra “Run Git and included Unix tools form Windows Command Promt”, damit ich Git in der Kommandozeile laufen lassen kann ohne den Pfad der Git Datei angeben zu müssen. Außerdem ist das der einzige Punkt, bei dem dann die SSH Authentifizierung vernünftig funktioniert.
 
-![Setup 3](./images/git-fuer-windows-3.png)
+![Setup 3](./images/git-fuer-windows-3.png) 
 Ich benutze das von Git mitgelieferte OpenSSH.
 
 Wir verwenden immer die “Unix-style line endings”. Dies kann man aber auch projektweise mit Hilfe einer .gitattributes definieren.
