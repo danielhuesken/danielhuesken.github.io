@@ -1,0 +1,23 @@
+{
+  "subject": "acct:danielhuesken@feuerwehr.social",
+  "aliases": [
+    "https://feuerwehr.social/@danielhuesken",
+    "https://feuerwehr.social/users/danielhuesken"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://feuerwehr.social/@danielhuesken"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://feuerwehr.social/users/danielhuesken"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://feuerwehr.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
