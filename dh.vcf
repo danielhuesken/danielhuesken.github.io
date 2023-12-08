@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Hüsken;Daniel;;;
+FN;CHARSET=UTF-8:Daniel Hüsken
+URL;HOME:https://danielhuesken.de
+BDAY:1976-12-31
+EMAIL;type=HOME:mail@danielhuesken.de
+TEL;type=CELL:+491704815657
+ADR;CHARSET=UTF-8;HOME;type=pref:;;;Rheine;;;
+REV:2023-12-08T08:27:03+01:00
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Hüsken;Daniel;;;
+FN;CHARSET=UTF-8:Daniel Hüsken
+ORG;CHARSET=UTF-8:Inpsyde GmbH;eCommerce Solutions
+TITLE;CHARSET=UTF-8:TeamLead
+URL;WORK:https://inpsyde.com
+EMAIL;type=WORK;type=PREF:d.huesken@inpsyde.com
+TEL;type=WORK;VOICE:+49 2202 817 90-22
+REV:2023-12-08T08:29:26+01:00
+END:VCARD
